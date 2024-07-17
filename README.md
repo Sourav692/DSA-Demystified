@@ -1,2 +1,1 @@
-# All-About-DataStructure-Algorithms
-This Repository contains commonly asked Data Structure and Algorithms in Interviews.
+All in One Repository for Data Structure and Algorithms
